@@ -1,0 +1,5 @@
+https://laracasts.com/series/beginning-react/episodes/1
+
+npx create-react-app lc-react
+cd lc-react
+npm start
